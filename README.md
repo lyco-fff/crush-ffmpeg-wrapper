@@ -14,8 +14,9 @@ Choose from four built-in presets depending on your quality and file size needs:
 - Lossless Compress: 85%–95% of original size (lossless)
 
 **Setup & Usage**
-Prerequisite: You must download **ffmpeg-release-essentials.zip** separately from **https://www.gyan.dev/ffmpeg/builds/**
-Extract **ffmpeg-release-essentials.zip** and pull out just the FFmpeg.exe file.
+Prerequisite: 
+> You must download **ffmpeg-release-essentials.zip** separately from **https://www.gyan.dev/ffmpeg/builds/**
+> Extract **ffmpeg-release-essentials.zip** and pull out just the FFmpeg.exe file.
 
 1. Download the .bat file (Compressor_H264.bat).
 2. Place both the FFmpeg.exe and the Compressor_H264 file into the folder containing the media you want to compress.
