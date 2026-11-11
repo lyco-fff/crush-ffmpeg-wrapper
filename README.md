@@ -8,10 +8,10 @@ A user-friendly .bat wrapper "**CRUSH**" for FFmpeg that automatically compresse
 **Compression Presets**
 
 Choose from four built-in presets depending on your quality and file size needs:
-• Super Compress: 10%–20% of original size (lossy)
-• Balanced Compress: 50%–60% of original size (lossy — Recommended)
-• Light Compress: 60%–85% of original size (lossy)
-• Lossless Compress: 85%–95% of original size (lossless)
+- Super Compress: 10%–20% of original size (lossy)
+- Balanced Compress: 50%–60% of original size (lossy — Recommended)
+- Light Compress: 60%–85% of original size (lossy)
+- Lossless Compress: 85%–95% of original size (lossless)
 
 **Setup & Usage**
 Prerequisite: You must download **ffmpeg-release-essentials.zip** separately from **https://www.gyan.dev/ffmpeg/builds/**
