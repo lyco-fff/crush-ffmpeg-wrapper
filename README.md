@@ -14,6 +14,7 @@ Choose from four built-in presets depending on your quality and file size needs:
 - Lossless Compress: 85%–95% of original size (lossless)
 
 **Setup & Usage**
+
 Prerequisite: 
 > You must download **ffmpeg-release-essentials.zip** separately from **https://www.gyan.dev/ffmpeg/builds/**
 > Extract **ffmpeg-release-essentials.zip** and pull out just the FFmpeg.exe file.
