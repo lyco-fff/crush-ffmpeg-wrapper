@@ -2,11 +2,12 @@
 
 **Batch Media Compressor**
 
-A user-friendly .bat wrapper "**CRUSH**" for ffmpeg that automatically compresses videos and images directly from the command line. Everything runs 100% locally, leveraging ffmpeg and your GPU's hardware encoding for fast, efficient processing.
+A user-friendly .bat wrapper "**CRUSH**" for ffmpeg that automatically compresses videos and images directly from the command line. Everything runs 100% locally, leveraging ffmpeg and your GPU's hardware encoding for fast compression.
 
 **Compression Presets**
 
 Choose from four built-in presets depending on your quality and file size needs:
+
 - Super Compress: 10%–20% of original size (lossy)
 - Balanced Compress: 50%–60% of original size (lossy — Recommended)
 - Light Compress: 60%–85% of original size (lossy)
@@ -26,4 +27,4 @@ Prerequisite:
 
 If at any point you wish to stop the compression, simply close the command window. Your compression speeds will also depend on your GPU since it runs completely locally. While in use, you should probably avoid running anything alongside it that will eat up VRAM.
 
-DISCLAIMER: I built this tool for personal use, and since I am the only real-world tester, YOU may run into unforeseen edge cases before I do. For example, I've only used this for video files (Ex. .mp4 , .mov , .m4v), though it should work for other file types too. If you find a bug, please email me at peppereddd@gmail.com with the steps to reproduce the issue so I can test it and push a fix. 
+DISCLAIMER: I built this tool for personal use, and since I am the only real-world tester, YOU may run into unforeseen edge cases before I do. Though it should work for other file types too. If you find a bug, please email me at peppereddd@gmail.com with the steps to reproduce the issue so I can test it and push a fix.
