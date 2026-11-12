@@ -2,7 +2,7 @@
 
 **Batch Media Compressor**
 
-A user-friendly .bat wrapper "**CRUSH**" for ffmpeg that automatically compresses videos and images directly from the command line. Everything runs 100% locally, leveraging ffmpeg and your GPU's hardware encoding for fast compression.
+A user-friendly .bat wrapper "**CRUSH**" for ffmpeg that automatically compresses videos and images directly from the command line. Everything runs locally, leveraging ffmpeg and your GPU's hardware encoding for fast compression.
 
 **Compression Presets**
 
@@ -15,8 +15,10 @@ Choose from four built-in presets depending on your quality and file size needs:
 
 **Setup & Usage**
 
-Prerequisite: 
+Prerequisite:
+
 > You must download **ffmpeg-release-essentials.zip** separately from **https://www.gyan.dev/ffmpeg/builds/**
+> 
 > Extract **ffmpeg-release-essentials.zip** and pull out just the ffmpeg.exe file.
 
 1. Download the .bat file (CRUSHER.bat).
