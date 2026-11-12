@@ -1,9 +1,8 @@
 # crush-ffmpeg-wrapper
 
-
 **Batch Media Compressor**
 
-A user-friendly .bat wrapper "**CRUSH**" for FFmpeg that automatically compresses videos and images directly from the command line. Everything runs 100% locally, leveraging your GPU's hardware encoding for fast, efficient processing.
+A user-friendly .bat wrapper "**CRUSH**" for FFmpeg that automatically compresses videos and images directly from the command line. Everything runs 100% locally, leveraging ffmpeg and your GPU's hardware encoding for fast, efficient processing.
 
 **Compression Presets**
 
@@ -17,11 +16,11 @@ Choose from four built-in presets depending on your quality and file size needs:
 
 Prerequisite: 
 > You must download **ffmpeg-release-essentials.zip** separately from **https://www.gyan.dev/ffmpeg/builds/**
-> Extract **ffmpeg-release-essentials.zip** and pull out just the FFmpeg.exe file.
+> Extract **ffmpeg-release-essentials.zip** and pull out just the ffmpeg.exe file.
 
-1. Download the .bat file (Compressor_H264.bat).
-2. Place both the FFmpeg.exe and the Compressor_H264 file into the folder containing the media you want to compress.
-3. Double click the .bat file and allow it to Run as administrator (administrator privileges are required).
+1. Download the .bat file (CRUSHER.bat).
+2. Place both ffmpeg.exe and CRUSHER.bat file into the folder containing the media you want to compress.
+3. Double click the CRUSHER.bat file and allow it to Run as administrator (administrator privileges are required).
 4. Follow the on-screen prompts in the command window to select your preset and start the process.
 5. Once finished, your compressed files will be saved in a new folder named "compressed" inside your target directory.
 
