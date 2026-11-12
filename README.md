@@ -2,7 +2,7 @@
 
 **Batch Media Compressor**
 
-A user-friendly .bat wrapper "**CRUSH**" for FFmpeg that automatically compresses videos and images directly from the command line. Everything runs 100% locally, leveraging ffmpeg and your GPU's hardware encoding for fast, efficient processing.
+A user-friendly .bat wrapper "**CRUSH**" for ffmpeg that automatically compresses videos and images directly from the command line. Everything runs 100% locally, leveraging ffmpeg and your GPU's hardware encoding for fast, efficient processing.
 
 **Compression Presets**
 
