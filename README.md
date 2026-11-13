@@ -29,4 +29,6 @@ Prerequisite:
 
 If at any point you wish to stop the compression, simply close the command window. Your compression speeds will also depend on your GPU since it runs completely locally. While in use, you should probably avoid running anything alongside it that will eat up VRAM.
 
-DISCLAIMER: I built this tool for personal use, and since I am the only real-world tester, YOU may run into unforeseen edge cases before I do. If you find a bug, please email me at peppereddd@gmail.com with the steps to reproduce the issue so I can test it and push a fix.
+**DISCLAIMER: RUN AT YOUR OWN RISK.**
+
+I built this tool for personal use, and since I am the only real-world tester, YOU may run into unforeseen edge cases before I do. If you find a bug, please email me at peppereddd@gmail.com with the steps to reproduce the issue so I can test it and push a fix.
